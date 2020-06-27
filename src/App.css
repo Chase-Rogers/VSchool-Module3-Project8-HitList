@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5vw;
+}
+
+.target {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 2vw;
+}
+
+img {
+  width: 300px;
+  height:  300px;
+  object-fit: cover;
+  
+}
+h1 {
+  width: 300px;
+}
